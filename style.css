@@ -113,3 +113,14 @@ th{
     justify-content: space-evenly;
 }
 
+button{
+    background-color: white;
+    transition-duration: 0.4s;
+    cursor: grab;
+    padding: 10px 20px;
+}
+
+button:hover{
+    background-color:aquamarine;
+    color: black;
+}
